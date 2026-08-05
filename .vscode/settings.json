@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "1 - Fundamentos da Linguagem de Programação Java",
+        "2 - Estruturas de Controle em Java",
+        "3 - Java e a Arte da Abstração com Classes e Encapsulamento"
+    ],
+    "java.project.outputPath": "bin"
+}
