@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "5 - Dominando Interfaces e Lambda em Java/Tributos",
         "5 - Dominando Interfaces e Lambda em Java/Marketing",
         "4 - Herança e Polimorfismo em Java",
         "3 - Java e a Arte da Abstração com Classes e Encapsulamento",
         "2 - Estruturas de Controle em Java",
         "1 - Fundamentos da Linguagem de Programação Java",
-        "5 - Dominando Interfaces e Lambda em Java/Tributos"
+        "5 - Dominando Interfaces e Lambda em Java/Calculo Geometrico"
     ],
     "java.project.outputPath": "bin"
 }

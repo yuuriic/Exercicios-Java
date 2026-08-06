@@ -1,4 +1,4 @@
-public class Main {
+public class MainTributos {
     public static void main(String[] args) {
         Produto[] produtos = {
             new Produto("Arroz", 50.0, Produto.TipoProduto.ALIMENTACAO),

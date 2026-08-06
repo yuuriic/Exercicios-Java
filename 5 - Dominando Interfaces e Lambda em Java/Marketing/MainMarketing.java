@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class MainMarketing {
     public static void main(String[] args) {
         List<ServicoMensagem> servicos = new ArrayList<>();
         servicos.add(new SmsService());
