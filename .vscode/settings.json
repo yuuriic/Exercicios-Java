@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
-        "1 - Fundamentos da Linguagem de Programação Java",
-        "2 - Estruturas de Controle em Java",
+        "4 - Herança e Polimorfismo em Java",
         "3 - Java e a Arte da Abstração com Classes e Encapsulamento",
-        "4 - Herança e Polimorfismo em Java"
+        "2 - Estruturas de Controle em Java",
+        "1 - Fundamentos da Linguagem de Programação Java",
+        "5 - Dominando Interfaces e Lambda em Java/Marketing"
     ],
     "java.project.outputPath": "bin"
 }
